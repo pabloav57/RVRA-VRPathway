@@ -1,0 +1,29 @@
+# Sistema operativo
+.DS_Store
+Thumbs.db
+
+# Archivos de Visual Studio Code
+.vscode/
+
+# Archivos generados por Unity
+Library/
+Temp/
+Obj/
+Build/
+Logs/
+MemoryCaptures/
+
+# Archivos temporales y cachés
+*.csproj
+*.pidb
+*.suo
+*.userprefs
+*.user
+*.unityproj
+*.booproj
+*.svd
+
+# Archivos de builds
+Builds/
+*.apk
+*.unitypackage
