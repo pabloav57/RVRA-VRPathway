@@ -69,10 +69,18 @@ providers = {
 objectSelectors = {
 }
 recentSearches = [
-	"righthand locomotion/t"
-	"righthan"
+	"righthand locomotion/input"
+	"righthand locomotio"
+	"righthand "
+	"lefthand locomotion"
+	"lefthand lo"
+	"righthand locomotion/tur"
+	"righthand loco"
 	"lefthand locomotion/"
 	"lefthand"
+	"lefthand locomotion "
+	"righthand locomotion/t"
+	"righthan"
 ]
 searchItemFavorites = [
 ]
